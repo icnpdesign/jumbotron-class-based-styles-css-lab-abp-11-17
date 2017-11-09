@@ -35,7 +35,7 @@ nav a {
   font-size: 18px;
 }
 
-p#jumbotron {
+p.jumbotron {
   font-size: 20px;
   padding: 0 40px 0 40px;
   line-height: 40px;
@@ -63,6 +63,6 @@ div.jumbotron {
   text-align: center;
 }
 
-h1#jumbotron {
+h1.jumbotron {
   font-size: 60px;
 }
