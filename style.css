@@ -57,5 +57,8 @@ h3#header {
 }
 
 div#jumbotron {
-  font-size: 60px;
+  border-radius: 5px;
+  background-color: #e9ecef;
+  padding: 10px;
+  text-align: center;
 }
