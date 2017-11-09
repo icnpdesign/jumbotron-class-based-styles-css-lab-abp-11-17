@@ -35,7 +35,7 @@ nav a {
   font-size: 18px;
 }
 
-.jumbotron p {
+p.jumbotron {
   font-size: 20px;
   padding: 0 40px 0 40px;
   line-height: 40px;
@@ -51,18 +51,18 @@ nav a:hover {
   font-size: 30px;
 }
 
-#header a{
+a#header {
   text-decoration: none;
   color: #868e96;
 }
 
-.jumbotron div {
+div.jumbotron {
   border-radius: 5px;
   background-color: #e9ecef;
   padding: 10px;
   text-align: center;
 }
 
-.jumbotron h1 {
+h1.jumbotron {
   font-size: 60px;
 }
